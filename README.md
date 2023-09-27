@@ -4,8 +4,6 @@
 
 🎓 Cursando faculdade de ADS na [Unisinos](https://www.instagram.com/unisinos/)
 
-👨🏻‍💻 Atualmente focado em JAVA <img width="16" alt="java" src="https://github.com/andremarques27/andremarques27/assets/95247935/94413b91-b41d-4c4c-9743-b7c42ad0d623">
-
 📌 Brasil, Rio Grande do Sul
 
 <div>
