@@ -2,7 +2,7 @@
 
 <img src="https://i.pinimg.com/originals/e9/9f/56/e99f560ce76b8b6fdf163a4e1b4992a1.gif" min-width="350px" max-width="350px" width="350px" align="right">
 
-🎓 Cursando faculdade de ADS na [Unisinos](https://www.instagram.com/unisinos/)
+🎓 Cursando ADS na [Unisinos](https://www.instagram.com/unisinos/)
 
 📌 Brasil, Rio Grande do Sul
 
